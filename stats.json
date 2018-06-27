@@ -1,0 +1,84 @@
+{
+  "assetsByChunkName": {
+    "path---docs-getting-started-installation": [
+      "path---docs-getting-started-installation-0f6178d687e3f22eef23.js",
+      "path---docs-getting-started-installation-0f6178d687e3f22eef23.js.map"
+    ],
+    "path---docs-examples-callback": [
+      "path---docs-examples-callback-5e9f271a15dae5c36ac5.js",
+      "path---docs-examples-callback-5e9f271a15dae5c36ac5.js.map"
+    ],
+    "path---docs-examples-one-match": [
+      "path---docs-examples-one-match-d43f172a9b83a986b98b.js",
+      "path---docs-examples-one-match-d43f172a9b83a986b98b.js.map"
+    ],
+    "path---docs-getting-started-overview": [
+      "path---docs-getting-started-overview-b006c54b850216464ade.js",
+      "path---docs-getting-started-overview-b006c54b850216464ade.js.map"
+    ],
+    "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js": [
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js-d95e3dd2cd49bd4ee5b6.js",
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-templates-default-js-d95e3dd2cd49bd4ee5b6.js.map"
+    ],
+    "path---": [
+      "path----5d4e0871e88a07f803ae.js",
+      "path----5d4e0871e88a07f803ae.js.map"
+    ],
+    "path---docs-usage-hoc": [
+      "path---docs-usage-hoc-fb480be40ec8987c21a4.js",
+      "path---docs-usage-hoc-fb480be40ec8987c21a4.js.map"
+    ],
+    "path---landing": [
+      "path---landing-a0e39f21c11f6a62c5ab.js",
+      "path---landing-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---docs-usage-basic": [
+      "path---docs-usage-basic-0bd676a20021e7bf42f0.js",
+      "path---docs-usage-basic-0bd676a20021e7bf42f0.js.map"
+    ],
+    "path---docs-examples-permissions-match": [
+      "path---docs-examples-permissions-match-673b41bec5b448c2a7b7.js",
+      "path---docs-examples-permissions-match-673b41bec5b448c2a7b7.js.map"
+    ],
+    "path---index": [
+      "path---index-fabf0a82e327c1d00460.js",
+      "path---index-fabf0a82e327c1d00460.js.map"
+    ],
+    "path---docs-examples-render-otherwise": [
+      "path---docs-examples-render-otherwise-06cfe898af6c39592b25.js",
+      "path---docs-examples-render-otherwise-06cfe898af6c39592b25.js.map"
+    ],
+    "component---src-pages-landing-js": [
+      "component---src-pages-landing-js-955d4b8498aecbfa910b.js",
+      "component---src-pages-landing-js-955d4b8498aecbfa910b.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-23f9dfcad6da6c583751.js",
+      "component---src-pages-404-js-23f9dfcad6da6c583751.js.map"
+    ],
+    "commons": [
+      "commons-54dfcbc96f9f630b06be.js",
+      "build-js-styles.css",
+      "commons-54dfcbc96f9f630b06be.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js": [
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js-202dc2beeda83aea88f0.js",
+      "component---node-modules-brainhubeu-gatsby-docs-kit-src-layouts-default-js-202dc2beeda83aea88f0.js.map"
+    ],
+    "app": [
+      "app-483c940c92ad68efdcb8.js",
+      "build-js-styles.css",
+      "app-483c940c92ad68efdcb8.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
